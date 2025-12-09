@@ -23,9 +23,9 @@ _**Pada tahun 2021**_
 
 2. Pada tahun ini total sales dan total profit tertingi dipegang bulan Juli dan Desember.
 
-   - Bulan juli: total sales 78,3 jt dan total profit 29,1 jt
+   - Bulan Juli: total sales 78,3 jt dan total profit 29,1 jt
 
-   - Bulan desember: total sales 77,8 jt dan total profit 28,8 jt
+   - Bulan Desember: total sales 77,8 jt dan total profit 28,8 jt
 
    Bulan dengan total sales dan total profit terendah adalah bulan Maret.
 
